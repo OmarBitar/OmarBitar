@@ -5,7 +5,7 @@ A little about me ...
 
 >I like to keep learning new technologies, I enjoy programing front-end applications such as MERN Stack applications and native Android. I wish to continue my exploration to the cloud and configure services such as AWS and Firebase.  
 
->I don't have a favorite language because I believe that once you learn and fundamentally understand the different paradigm shifts of programming languages, learning and efficiently programming in a new langue will be an easy task. I will say however I learned all my fundamentals on Object-Oriented principles in C++. 
+>I don't have a favorite language because I believe that once you learn and fundamentally understand the different paradigm shifts of programming languages, learning and efficiently programming in a new language will be an easy task. I will say however I learned all my fundamentals on Object-Oriented principles in C++. 
 
 ⚡ An interesting fact about me ... I set all my IDEs with `vim` emulation.
 
