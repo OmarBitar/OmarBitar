@@ -1,6 +1,8 @@
 <!-- @format -->
 # 👋 Hello World! 🌎 my name is Omar and I am a recent University Graduate 🎓, welcome to my page!
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarBitar&theme=tokyonight)
+
 A little about me ...
 
 >I like to keep learning new technologies, I enjoy programing front-end applications such as MERN Stack applications and native Android. I wish to continue my exploration to the cloud and configure services such as AWS and Firebase.  
